@@ -2341,6 +2341,6 @@ external.texts.txt=https://raw.githubusercontent.com/kadirasuira/cdnhbx/main/swf
 external.override.variables.txt=https://raw.githubusercontent.com/kadirasuira/cdnhbx/main/swf/gamedata/override/external_override_variables.txt
 flash.client.url=https://raw.githubusercontent.com/kadirasuira/cdnhbx/main/swf/gordon/HABBEX-PRODUCTION/
 furnidata.load.url=https://raw.githubusercontent.com/kadirasuira/cdnhbx/main/swf/gamedata/furnidata.xml
-external.variables.txt=https://raw.githubusercontent.com/kadirasuira/cdnhbx/main/swf/gamedata/external_variables.txt
+external.variables.txt=https://raw.githubusercontent.com/kadirasuira/cdnhbx/main/swf/gamedata/external_variables.1.txt
 external.override.texts.txt=https://raw.githubusercontent.com/kadirasuira/cdnhbx/main/swf/gamedata/override/external_flash_override_texts.txt
 external.figurepartlist.txt=https://raw.githubusercontent.com/kadirasuira/cdnhbx/main/swf/gamedata/figuredata.xml
