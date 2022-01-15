@@ -2101,7 +2101,7 @@ logout.disconnect.url=${url.prefix}/disconnected?reason=logout
 logout.disconnect.url=${url.prefix}/disconnected?reason=logout&origin=%origin%
 logout.url=${url.prefix}/disconnected?reason=%reason%&origin=%origin%
 link.format.guild=${url.prefix}/groups/%groupid%/id
-group.badge.url=https://habbloz.online/habbo-imaging/badge/%imagerdata%.gif
+group.badge.url=https://cdn.jsdelivr.net/gh/kadirasuira/cdnhbx/swf/badge/%imagerdata%.gif
 group.deletion.enabled=true
 group.deletion.maximum.members=500
 group.homepage.url=${url.prefix}/groups/%groupid%/id
